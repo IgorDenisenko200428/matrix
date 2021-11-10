@@ -1,2 +1,4 @@
-# matrix
-Matrix
+i =" HACK " #переменная i
+while " HACK "==" HACK ":#while цикл
+ print(i)#выводим значение на экран
+ i = i + " HACK "#добавляем новое значение в переменную
